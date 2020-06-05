@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RecyclerView Demo</string>
+    <string-array name="LBS">
+        <item>35\n\nLBS</item>
+        <item>40\n\nLBS</item>
+        <item>50\n\nLBS</item>
+        <item>35\n\nLBS</item>
+        <item>50\n\nLBS</item>
+        <item>40\n\nLBS</item>
+    </string-array>
+</resources>
